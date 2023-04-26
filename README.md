@@ -1,3 +1,3 @@
 # Relogio Digital
 
-<p align="center"> <img src="./img/relogio.png" /></p>
+<p align="center"> <img src="./assets/img/relogio.png" /></p>
